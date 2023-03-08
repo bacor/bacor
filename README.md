@@ -1,6 +1,6 @@
 Hi there!
 
-I'm Bas, and I make things I find beautiful: music, ideas, design, code, and more. I was trained as an interdisciplinary mathematician, went on to do a masters in logic and PhD in computational musicology at the University of Amsterdam. All the while, I worked as a freelance graphic designer and webdeveloper at Studio Metrum. During my PhD I decided to take up a studies in classical voice, and I am now working as professional classical singer.
+I'm Bas, and I make things: music, ideas, design, code, and more. I was trained as an interdisciplinary mathematician, went on to do a masters in logic and PhD in computational musicology at the University of Amsterdam. All the while, I worked as a freelance graphic designer and webdeveloper at Studio Metrum. During my PhD I decided to take up a studies in classical voice, and I am now working as professional classical singer.
 
 Do you want to make something together? Let me know! :-)
 
