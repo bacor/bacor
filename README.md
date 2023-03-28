@@ -42,25 +42,10 @@ and computation lab at the University of Amsterdam
 Other project
 -------------
 
+- 2023 - [Metrum Type Beta](https://bacor.github.io/metrum-type]: an experimental variable color typeface implemented in Paper.js.
 - 2015 — [Thread Arcs](https://github.com/bacor/thread-arcs): thread arcs for the web (developed for use at De Omslag)
 
 Design and music
 ----------------
 
 For my design and music projects, see [bascornelissen.nl](https://bascornelissen.nl)
-
-
-<!--
-**bacor/bacor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
