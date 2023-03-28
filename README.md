@@ -42,7 +42,7 @@ and computation lab at the University of Amsterdam
 Other project
 -------------
 
-- 2023 - [Metrum Type Beta](https://bacor.github.io/metrum-type]: an experimental variable color typeface implemented in Paper.js.
+- 2023 - [Metrum Type Beta](https://bacor.github.io/metrum-type): an experimental variable color typeface implemented in Paper.js.
 - 2015 — [Thread Arcs](https://github.com/bacor/thread-arcs): thread arcs for the web (developed for use at De Omslag)
 
 Design and music
