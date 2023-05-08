@@ -39,7 +39,7 @@ and computation lab at the University of Amsterdam
 Other projects
 -------------
 
-- 2023 – [gatsby-source-publications](github.com/bacor/gatsby-source-publications): Gatsby source plugin to pull publications from bibtex, DOIs, or ORCID and format them using Citation.js.
+- 2023 – [gatsby-source-publications](https://github.com/bacor/gatsby-source-publications): Gatsby source plugin to pull publications from bibtex, DOIs, or ORCID and format them using Citation.js.
 - 2023 - [Metrum Type Beta](https://bacor.github.io/metrum-type): an experimental variable color typeface implemented in Paper.js.
 - 2015 — [Thread Arcs](https://github.com/bacor/thread-arcs): thread arcs for the web (developed for use at De Omslag)
 
