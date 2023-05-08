@@ -2,9 +2,6 @@ Hi there!
 
 I'm Bas, and I make things: music, ideas, design, code, and more. I was trained as an interdisciplinary mathematician, went on to do a masters in logic and PhD in computational musicology at the University of Amsterdam. All the while, I worked as a freelance graphic designer and webdeveloper at Studio Metrum. During my PhD I decided to take up a studies in classical voice, and I am now working as professional classical singer.
 
-Do you want to make something together? Let me know! :-)
-
-
 ---
 
 Research projects 
@@ -39,9 +36,10 @@ and computation lab at the University of Amsterdam
 - 2017 — [Tai Chi Doesburg](https://taichidoesburg.nl) Website for my fathers Tai Chi School in Doesburg.
 - 2016 — Fietsen met Welstand
 
-Other project
+Other projects
 -------------
 
+- 2023 – [gatsby-source-publications](github.com/bacor/gatsby-source-publications): Gatsby source plugin to pull publications from bibtex, DOIs, or ORCID and format them using Citation.js.
 - 2023 - [Metrum Type Beta](https://bacor.github.io/metrum-type): an experimental variable color typeface implemented in Paper.js.
 - 2015 — [Thread Arcs](https://github.com/bacor/thread-arcs): thread arcs for the web (developed for use at De Omslag)
 
